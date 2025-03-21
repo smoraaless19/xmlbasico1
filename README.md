@@ -55,10 +55,3 @@ git remote add origin https://github.com/usuario/repositorio.git
 
 <!-- Subir los cambios al repositorio remoto -->
 git push -u origin main
-
-<!-- Reglas generales -->
-<!-- 
-Mantener una estructura clara y ordenada.
-Comentar cambios con fecha.
-Usar nombres de etiquetas descriptivos.
--->
