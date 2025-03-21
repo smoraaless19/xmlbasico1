@@ -13,7 +13,6 @@ Ejercicio: XML Básico I
 </persona>
 
 <!-- 
-Fecha: 12/02/2025
 Cambio: Se agregó el campo correo-electronico 
 -->
 <persona>
