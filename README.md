@@ -7,7 +7,7 @@ Ejercicio: XML Básico I
 
 <!-- Definición de una persona -->
 <persona>
-    <nombre>Juan Pérez</nombre>
+    <nombre>Sergio Morales</nombre>
     <edad>30</edad>
     <ciudad>Madrid</ciudad>
 </persona>
@@ -17,18 +17,18 @@ Fecha: 12/02/2025
 Cambio: Se agregó el campo correo-electronico 
 -->
 <persona>
-    <nombre>Juan Pérez</nombre>
+    <nombre>Sergio Morales</nombre>
     <edad>30</edad>
     <ciudad>Madrid</ciudad>
-    <correo-electronico>juan@example.com</correo-electronico>
+    <correo-electronico>sergio@example.com</correo-electronico>
 </persona>
 
 <!-- Estructura organizada de una empresa -->
 <empresa>
     <empleado>
-        <nombre>Ana López</nombre>
+        <nombre>Daniel Snachez</nombre>
         <puesto>Desarrolladora</puesto>
-        <email>ana.lopez@example.com</email>
+        <email>daniel.sanchez@example.com</email>
     </empleado>
     <empleado>
         <nombre>Carlos Ramírez</nombre>
